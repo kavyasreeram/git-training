@@ -12,6 +12,7 @@
     <module>code/routines</module>
     <module>jobs/process/git_project_0.1</module>
     <module>code/beans</module>
+    <module>code/pigudf</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
