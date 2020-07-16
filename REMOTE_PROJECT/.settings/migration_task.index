@@ -1828,6 +1828,11 @@
     "version" : "5.2.2",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.repository.model.migration.SpecialUpdateELTTableNameMigrationTask",
+    "breaks" : "7.2.0",
+    "version" : "7.2.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.repository.model.migration.SubstituteRemovedMDMOperatorMigrationTask",
     "breaks" : "6.1.0",
     "version" : "6.2.0",
