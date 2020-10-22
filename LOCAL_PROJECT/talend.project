@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_PuPCUBQ4Eeuja9CIS4NrNw" label="Local_Project" description="" language="java" technicalLabel="LOCAL_PROJECT" author="_PuPCURQ4Eeuja9CIS4NrNw" productVersion="Talend Data Fabric-7.2.1.20200928_0717-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/kavyasreeram/git-training.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM">
+    <migrationTask xmi:id="_Pv7rcBQ4Eeuja9CIS4NrNw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_PuPCURQ4Eeuja9CIS4NrNw" login="user1@company.com" firstName="user" lastName="last" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
